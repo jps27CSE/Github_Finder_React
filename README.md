@@ -1,5 +1,7 @@
 # Github Finder UI
 
+![Untitled](https://user-images.githubusercontent.com/58485174/177399487-ed83e389-b84b-48a1-b14c-48c927fa0ef3.jpg)
+
 
 # Getting Started with Create React App
 
