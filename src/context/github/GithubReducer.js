@@ -3,8 +3,13 @@ const GithubReducer = (state, action) => {
     case "GET_USERS":
       return {
         ...state,
-        users: action.payload,
+        users: action.payload, //payload contains data
         loading: false,
+      };
+    case "SET_LOADING":
+      return {
+        ...state,
+        loading: true,
       };
     default:
       return state;
